@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice in Wonderland", "Alice in Wonderland.csproj", "{1E98379A-8D78-466A-C60C-5293954846A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice in Wonderland.Plugins", "Alice in Wonderland.Plugins.csproj", "{47DE458C-1EFA-284C-59E6-43D54C7B5D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice in Wonderland.Editor.Plugins", "Alice in Wonderland.Editor.Plugins.csproj", "{D20BD9D8-1E1F-B439-ECFE-FD6C0E4D1217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E98379A-8D78-466A-C60C-5293954846A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E98379A-8D78-466A-C60C-5293954846A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E98379A-8D78-466A-C60C-5293954846A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E98379A-8D78-466A-C60C-5293954846A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DE458C-1EFA-284C-59E6-43D54C7B5D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DE458C-1EFA-284C-59E6-43D54C7B5D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DE458C-1EFA-284C-59E6-43D54C7B5D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DE458C-1EFA-284C-59E6-43D54C7B5D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20BD9D8-1E1F-B439-ECFE-FD6C0E4D1217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20BD9D8-1E1F-B439-ECFE-FD6C0E4D1217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20BD9D8-1E1F-B439-ECFE-FD6C0E4D1217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20BD9D8-1E1F-B439-ECFE-FD6C0E4D1217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
